@@ -2,4 +2,4 @@
 
 `npm i`
 
-The two available url are `/basic-use` & `advanced use`
+The two available url are `/basic-use` & `advanced-use`
